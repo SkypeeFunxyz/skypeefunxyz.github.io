@@ -1,2 +1,2 @@
-# FatGarfield777
-website
+# CyanFork
+A fork of Garfield777
