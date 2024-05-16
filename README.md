@@ -1,2 +1,2 @@
 # CyanFork
-A fork of Garfield777
+A fork of FatGarfield777
